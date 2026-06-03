@@ -119,11 +119,13 @@ Plant-Disease-Classification-MATLAB/
 ├── resnet_transfer_learning.m
 ├── CNN_Confusion_Matrix.png
 ├── ResNet18_ConfusionMatrix.png
+├── CNN_Metrics.xlsx
 ├── Final_Project_Results.xlsx
 ├── ResNet18_Results.xlsx
+├── cnn.pdf
+├── resnet.pdf
 ├── README.md
 ```
-
 ---
 
 ## Requirements
