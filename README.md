@@ -75,12 +75,9 @@ Custom CNN architecture consisting of:
 
 #### Architecture Size
 
-| Metric               |     Value |
-| -------------------- | --------: |
-| Learnable Parameters | 6,447,754 |
-| Trainable Parameters | 6,422,656 |
-| Layers               |        18 |
-| Connections          |     4,640 |
+| Metric | Value |
+|---------|---------:|
+| Total Trainable Parameters | 6,447,754 |
 
 File:
 
@@ -137,7 +134,7 @@ The transfer learning model significantly outperformed the baseline CNN architec
 
 ### Baseline CNN
 
-![Baseline CNN](CNN_20epoch_Confusion_Matrix.png)
+![Baseline CNN](CNN_Confusion_Matrix.png)
 
 ### ResNet-18 Transfer Learning
 
@@ -182,7 +179,7 @@ Plant-Disease-Classification-MATLAB/
 
 ## Author
 
-**Sevinç Taşer**
-Department of Electrical and Electronics Engineering
-Abdullah Gül University
+**Sevinç Taşer**  
+Department of Electrical and Electronics Engineering  
+Abdullah Gül University  
 Kayseri, Türkiye
